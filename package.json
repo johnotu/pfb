@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/johnotu/pfb/issues"
   },
-  "homepage": "https://github.com/johnotu/pfb#readme"
+  "homepage": "https://github.com/johnotu/pfb#readme",
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  }
 }
